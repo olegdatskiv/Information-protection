@@ -1,0 +1,28 @@
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.exe.config
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Vizhener.csprojResolveAssemblyReference.cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\MainWindow.g.cs
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\App.g.cs
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.lref
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\MainWindow.baml
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.g.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu_method.Properties.Resources.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\Vizhener\Сhystokolu method\obj\Debug\Vizhener.csproj.GenerateResource.Cache
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.exe.config
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.exe
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.pdb
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.exe
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\bin\Debug\Сhystokolu method.pdb
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Vizhener.csprojResolveAssemblyReference.cache
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\MainWindow.g.cs
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\App.g.cs
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.cache
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.lref
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\MainWindow.baml
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu method.g.resources
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Сhystokolu_method.Properties.Resources.resources
+C:\Users\Demo\Desktop\Vizhener\Сhystokolu method\obj\Debug\Vizhener.csproj.GenerateResource.Cache

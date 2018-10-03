@@ -1,0 +1,17 @@
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\bin\Debug\Сhystokolu method.exe.config
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\bin\Debug\Сhystokolu method.exe
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\bin\Debug\Сhystokolu method.pdb
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method.csprojResolveAssemblyReference.cache
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\MainWindow.g.cs
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\App.g.cs
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.cache
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method_MarkupCompile.lref
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\MainWindow.baml
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method.g.resources
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu_method.Properties.Resources.resources
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method.csproj.GenerateResource.Cache
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method.exe
+c:\users\користувач\documents\visual studio 2015\Projects\6\Cryptology\Сhystokolu method\Сhystokolu method\obj\Debug\Сhystokolu method.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\4 squares method\Сhystokolu method\bin\Debug\Сhystokolu method.exe.config
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\4 squares method\Сhystokolu method\obj\Debug\Сhystokolu method.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\6\Cryptology\4 squares method\Сhystokolu method\obj\Debug\Сhystokolu method.pdb

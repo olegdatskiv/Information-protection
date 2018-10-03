@@ -1,0 +1,34 @@
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Form1.resources
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Properties.Resources.resources
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.pdb
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+C:\Users\Stas\Desktop\Temp\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
+C:\Users\Stas\Desktop\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+C:\Users\Stas\Desktop\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+C:\Users\Stas\Desktop\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
+D:\Навчання\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+D:\Навчання\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+D:\Навчання\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.pdb
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Form1.resources
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Properties.Resources.resources
+D:\Навчання\ex\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.csproj.GenerateResource.Cache
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.pdb
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.csprojResolveAssemblyReference.cache
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Form1.resources
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar_cipher.Properties.Resources.resources
+C:\Users\Kolya\Desktop\Захист інформації\2. Алгоритм Цезаря\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.csproj.GenerateResource.Cache
+C:\Users\Demo\Desktop\Caesar cipher\Caesar cipher\bin\Debug\Caesar cipher.exe.config
+C:\Users\Demo\Desktop\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.exe
+C:\Users\Demo\Desktop\Caesar cipher\Caesar cipher\obj\Debug\Caesar cipher.pdb
